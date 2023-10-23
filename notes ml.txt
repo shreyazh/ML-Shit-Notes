@@ -1,0 +1,17 @@
+-supervised learing has features and labels.
+-classification task classifies and regression task gives a value
+-in batch learning you already have data to train model
+-online has on the fly data is coming and changing everytime like spam data
+-.head() for first five dataset
+-.info() about the col and row number
+-.describe() tells the min max 25% etc data value
+-x['y'].value_counts()
+-import matplotlib.pylplot
+-.hist(bins=00, fisize=(00,00)
+-import numpy def perm testsize test train return data.iloc[]
+-np.random.permutation(len(data))
+-np.random.seed(45)
+sklearn.model_selection import train_test_split....strat
+-corr
+pandas.plotting
+scatter_matrix
